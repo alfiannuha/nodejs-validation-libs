@@ -1,0 +1,35 @@
+{
+  "required": "This field is required",
+
+  "email": "The email you entered is invalid",
+  "gmail": "The email you enter must be gmail.com",
+
+  "passwordComplexity": "Password must contain at least one letter, at least one number, and at least one special character",
+  "passwordLowercase": "Password must contain at least one lowercase letter",
+  "passwordUppercase": "Password must contain at least one uppercase letter",
+  "passwordNumber": "Password must contain at least one number",
+  "passwordSpecial": "Password must contain at least one special character",
+  "passwordLetterAndNumber": "Password must contain at least one letter and one number",
+  "passwordLetterAndSpecial": "Password must contain at least one letter and one special character",
+  "passwordMatch": "Password does not match",
+
+  "phone": "The phone number you entered is invalid",
+  "phoneIndonesia62": "Phone numbers must begin with 62",
+  "phoneIndonesia08": "Phone numbers must begin with 08",
+  "phoneLength": "The phone number should consist of 10 to 15 digits",
+  "phoneNumeric": "Phone numbers can only contain numbers",
+  "numeric": "Only numbers are allowed",
+  "decimal": "Only decimal numbers are allowed",
+
+  "username": "Username must be at least 5 characters long and contain only letters and numbers",
+  "alpha": "Only letters are allowed",
+  "alphaNumeric": "Only letters and numbers are allowed",
+  "alphaNumericSpace": "Only letters, numbers, and spaces are allowed",
+  "alphaSpace": "Only letters and spaces are allowed",
+
+  "date": "The date format must follow the YYYY-MM-DD format",
+  "time": "The time format must follow the hh:mm format",
+  "dateTime": "The date and time format must follow the YYYY-MM-DD hh:mm format",
+  
+  "url": "URLs must start with http:// or https://"
+}

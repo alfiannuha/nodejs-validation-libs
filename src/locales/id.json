@@ -1,0 +1,35 @@
+{
+  "required": "Kolom ini wajib diisi",
+  
+  "email": "Email yang anda masukkan tidak valid",
+  "gmail": "Email yang dimasukkan harus gmail.com",
+
+  "passwordComplexity": "Kata sandi harus terdiri dari setidaknya satu huruf, setidaknya satu angka, dan setidaknya satu karakter khusus",
+  "passwordLowercase": "Kata sandi harus mengandung setidaknya satu huruf kecil",
+  "passwordUppercase": "Kata sandi harus mengandung setidaknya satu huruf besar",
+  "passwordNumber": "Kata sandi harus mengandung setidaknya satu angka",
+  "passwordSpecial": "Kata sandi harus mengandung setidaknya satu karakter khusus",
+  "passwordLetterAndNumber": "Kata sandi harus mengandung setidaknya satu huruf dan satu angka",
+  "passwordLetterAndSpecial": "Kata sandi harus mengandung setidaknya satu huruf dan satu karakter khusus",
+  "passwordMatch": "Kata sandi tidak cocok",
+
+  "phone": "Nomor telepon yang anda masukkan tidak valid",
+  "phoneIndonesia62": "Nomor telepon harus diawali dengan +62 atau 62",
+  "phoneIndonesia08": "Nomor telepon harus diawali dengan 08",
+  "phoneLength": "Nomor telepon harus terdiri dari 10 hingga 15 digit",
+  "phoneNumeric": "Nomor telepon hanya boleh berisi angka",
+  "numeric": "Hanya angka yang diperbolehkan",
+  "decimal": "Hanya angka desimal yang diperbolehkan",
+  
+  "username": "Nama pengguna harus terdiri dari minimal 5 karakter dan hanya terdiri dari huruf dan angka",
+  "alpha": "Hanya huruf yang diperbolehkan",
+  "alphaNumeric": "Hanya huruf dan angka yang diperbolehkan",
+  "alphaNumericSpace": "Hanya huruf, angka, dan spasi yang diperbolehkan",
+  "alphaSpace": "Hanya huruf dan spasi yang diperbolehkan",
+
+  "date": "Format tanggal haru mengikuti format YYYY-MM-DD",
+  "time": "Format waktu harus mengikuti format hh:mm",
+  "dateTime": "Format tanggal dan waktu harus mengikuti format YYYY-MM-DD hh:mm",
+
+  "url": "URL harus diawali dengan http:// atau https://"
+}
