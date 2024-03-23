@@ -1,6 +1,6 @@
 {
   "name": "@alfiannuha/validation-libs",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Library validation for NodeJS or for validation in frontend",
   "main": "./dist/index.js",
   "module": "module",
